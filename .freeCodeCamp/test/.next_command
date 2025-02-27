@@ -16,3 +16,5 @@ git add .
 git commit -m "chore: update FreeCodeCamp test files"
 git pull --rebase origin main
 git add .
+git pull --rebase origin main
+git add .
