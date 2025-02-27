@@ -30,3 +30,6 @@ git rebase -i --root
 git status
 git status
 git add .
+rm -rf .git/rebase-merge
+git status
+git add .
