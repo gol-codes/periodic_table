@@ -25,3 +25,4 @@ git push --force origin main
 git add .
 git rebase origin/main
 git add .
+git add .
