@@ -18,3 +18,8 @@ git pull --rebase origin main
 git add .
 git pull --rebase origin main
 git add .
+git fetch origin
+git rebase --continue
+git rebase --continue
+git push --force origin main
+git add .
