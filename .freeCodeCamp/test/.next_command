@@ -33,5 +33,14 @@ git add .
 rm -rf .git/rebase-merge
 git status
 git add .
+<<<<<<< Updated upstream
 git stash pop
 git add .freeCodeCamp/test/.cwd .freeCodeCamp/test/.next_command
+=======
+git rebase -i --root
+git stash
+>>>>>>> Stashed changes
+git log --oneline --graph
+git rebase -i --root
+git push --force origin main
+git add .
