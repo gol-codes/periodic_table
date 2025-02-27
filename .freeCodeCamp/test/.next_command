@@ -26,3 +26,7 @@ git add .
 git rebase origin/main
 git add .
 git add .
+git rebase -i --root
+git status
+git status
+git add .
