@@ -13,3 +13,6 @@ git remote set-url origin https://github.com/gol-codes/periodic_table.git
 git pull --rebase origin main
 git status
 git add .
+git commit -m "chore: update FreeCodeCamp test files"
+git pull --rebase origin main
+git add .
