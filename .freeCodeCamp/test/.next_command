@@ -94,3 +94,7 @@ git status
 git status
 git add .freeCodeCamp/test/.cwd .freeCodeCamp/test/.next_command
 git add .freeCodeCamp/test/.cwd .freeCodeCamp/test/.next_command
+git diff .freeCodeCamp/test/.cwd
+git add -f .freeCodeCamp/test/.cwd .freeCodeCamp/test/.next_command
+git check-ignore -v .freeCodeCamp/test/.cwd .freeCodeCamp/test/.next_command
+git commit -am "chore: update test files"
