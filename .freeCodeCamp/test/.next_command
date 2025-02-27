@@ -44,3 +44,6 @@ git log --oneline --graph
 git rebase -i --root
 git push --force origin main
 git add .
+git rebase -i --root
+git status
+git add .
