@@ -93,3 +93,4 @@ git add .freeCodeCamp/test/.cwd .freeCodeCamp/test/.next_command
 git status
 git status
 git add .freeCodeCamp/test/.cwd .freeCodeCamp/test/.next_command
+git add .freeCodeCamp/test/.cwd .freeCodeCamp/test/.next_command
