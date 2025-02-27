@@ -7,3 +7,9 @@ git branch
 git pull origin main --rebase
 git status
 git add .
+git push origin main
+git remote -v
+git remote set-url origin https://github.com/gol-codes/periodic_table.git
+git pull --rebase origin main
+git status
+git add .
