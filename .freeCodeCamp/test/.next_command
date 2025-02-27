@@ -33,3 +33,5 @@ git add .
 rm -rf .git/rebase-merge
 git status
 git add .
+git stash pop
+git add .freeCodeCamp/test/.cwd .freeCodeCamp/test/.next_command
