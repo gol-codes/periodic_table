@@ -3,3 +3,5 @@ cat .gitignore
 touch .freeCodeCamp/test/.cwd .freeCodeCamp/test/.next_command
 git status
 git add .freeCodeCamp/test/.cwd .freeCodeCamp/test/.next_command
+git diff .freeCodeCamp/test/.cwd
+git add .freeCodeCamp/test/.cwd .freeCodeCamp/test/.next_command
