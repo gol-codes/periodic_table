@@ -47,3 +47,11 @@ git add .
 git rebase -i --root
 git status
 git add .
+git status
+ls --color=auto .git/rebase-*
+git branch
+git status
+git clean -n
+git clean -f
+git stash pop
+git add .freeCodeCamp/test/.cwd .freeCodeCamp/test/.next_command
